@@ -178,5 +178,4 @@ sis/
 - **Database file locked or read-only:** Ensure the server is not running in multiple terminal windows simultaneously. The SQLite database is located at `./server/db/sis.db`.
 - **Port 3000 already in use:** Edit `.env` and change `PORT=3000` to `PORT=3001` or another available port.
 - **Node version warnings:** Node.js v20+ or v22+ has full built-in SQLite support (`node:sqlite`). If using older Node versions (<20), please upgrade to the current LTS release.
-#   S t u d e n t - I n f o r m a t i o n - S y s t e m  
- 
+#
