@@ -1,0 +1,11 @@
+node_modules/
+server/db/sis.db
+.env
+public/uploads/photos/*.jpg
+public/uploads/photos/*.png
+public/uploads/assignments/*
+public/uploads/materials/*
+coverage/
+*.log
+.DS_Store
+Thumbs.db
